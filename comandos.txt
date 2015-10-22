@@ -1,0 +1,28 @@
+Todo comienza con "git ":
+
+     status -> Dice si hay archivos nuevos o modificados que no se han subido. En caso de que este actualizado lo dice
+
+     add _____ -> Agrega los cambios al "carrito de mercado"
+
+     commit -> "Compra" lo del carrito, es decir, lo agrega al repositorio
+
+     push -> Sube los cambios al repositorio
+
+     
+     
+     pull -> actualiza en mi computador los cambios del repositorio
+
+     
+
+     fetch -> En caso de que dos personas esten trabajando simultaneamente, sirve para unir las dos versiones
+
+     merge -> Lo mismo que fetch, pero porque toca hacer los dos jaja
+
+
+
+     log -> para ver todas las modificaciones
+     
+     checkout _____ -> para devolverse a una version del pasado
+
+
+Para mas comandos buscar: git the simple guide
